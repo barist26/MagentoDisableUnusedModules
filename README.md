@@ -1,0 +1,2 @@
+# MagentoDisableUnusedModules
+Increase Magento Performance
